@@ -1,0 +1,99 @@
+ 
+.FirstPage{
+    background-color: #fff;
+    height: 824px;
+    width: auto;
+
+}
+.logo{
+    height: 60px;
+    width: 60px;
+    
+    border-style: none;
+}
+.say-hello{
+    height: 42px;
+    width: 135px;
+    border-radius: 6px;
+    background-color: #fff;
+    border-color: blueviolet;
+    color: blueviolet;
+    position: relative;
+    left: 971px;
+    cursor: pointer;
+    box-shadow: 0 2px 5px rgba(0,0, 0, 0.2);
+
+}
+.names{
+    height: 38px;
+    width: 242px;
+    background-color: #ffff;
+    position: relative;
+    right: -498px;
+    padding: 0px;
+
+}
+.name{
+    color: navy;
+}
+.content{
+    height: 19px;
+    width: 485px;
+    background-color: #ffff;
+    position: relative;
+    left: 373px;
+
+}
+.sentences{
+    color: gray;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.dev-icon{
+    height: 428px;
+    width: 484px;
+    position: relative;
+    left: 361px;
+
+}
+.label{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 12px;
+    position: relative;
+    left: -64px;
+
+}
+.system-icons{
+    height: 234px;
+    width: 100%;
+}
+.about{
+    background-color:azure;
+    height: 447px;
+}
+.paragraph{
+    height: 447px;
+    width: 594px;
+    position: relative;
+    left: 195px;
+
+}
+.skills-section{
+    height: 447px;
+    background-color: azure;
+}
+.skills{
+    height:447px ;
+    width: 594px;
+    position: relative;
+    left: 353px;
+}
+.contact-section{
+    height: 447px;
+    background-color: azure;
+}
+.contact{
+    height: 357px;
+    width: 594px;
+    position: relative;
+    left: 262px;
+}
